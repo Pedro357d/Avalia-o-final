@@ -1,4 +1,4 @@
-# Avalia-o-final 
+# Avaliacao-final 
 # Cenário
 Uma locadora de vídeo chamada “VideoMaster” deseja criar um sistema de banco
 de dados para melhor organização de seu sistema. O sistema deve permitir o cadastro de
